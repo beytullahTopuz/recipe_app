@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918821107305",
+    "project_id": "recepies-af689",
+    "storage_bucket": "recepies-af689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918821107305:android:2f3a73740bedff47c554f8",
+        "android_client_info": {
+          "package_name": "com.example.recepiesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918821107305-38g6tjllb4t15q5f05eb7rbg41vlk7uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCApOftaUUnrUrIzDXOxDBpXSW8Zcjt8-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918821107305-38g6tjllb4t15q5f05eb7rbg41vlk7uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
